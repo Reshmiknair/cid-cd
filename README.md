@@ -1,3 +1,4 @@
 # cid-cd
 <br>
-by :  Vikyath Shetty
+by :  reshmi
+<br>its readme edit
